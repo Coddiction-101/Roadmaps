@@ -3044,10 +3044,6 @@ The best backend engineers are not those who know the most acronyms. They are th
 - **Measure before acting** — intuition about performance and scale is frequently wrong.
 - **Keep the user in mind** — everything in this document ultimately exists to serve people clicking buttons.
 
-Build things. Break them. Fix them. Learn from what breaks. That is backend engineering.
-
 ---
-
-*Version 1.0 — Last Updated June 2026*
 
 *Domains: Internet Fundamentals · Networking · APIs · Databases · Auth · Security · Caching · Messaging · Architecture · Testing · DevOps · Cloud · Observability · Distributed Systems · System Design*
