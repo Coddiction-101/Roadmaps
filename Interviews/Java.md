@@ -9,7 +9,7 @@
 
 ## Variables & Data Types
 
-1. What is a variable?
+1. What is a variable? - ✅
 2. What is a data type?
 3. What are primitive data types in Java?
 4. What are non-primitive data types?
