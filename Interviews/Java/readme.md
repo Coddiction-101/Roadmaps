@@ -26,3 +26,29 @@
 | **23. Scenario-Based**        | 296-305   | Real-world problem solving                             |
 | **24. Tricky Questions**      | 306-320   | Edge cases, common interview traps                     |
 | **25. Most Asked**            | 321-335   | Core concepts every fresher must know                  |
+
+
+# Top 20 Must-Know Answers (Priority Order)
+
+| #  | Question                                       | Why It Matters               |
+| -- | ---------------------------------------------- | ---------------------------- |
+| 1  | OOP Concepts (321)                             | Asked in 95% of interviews   |
+| 2  | HashMap internals (330)                        | Tests deep understanding     |
+| 3  | String immutability (99, 306)                  | Foundation for many topics   |
+| 4  | Overloading vs Overriding (178, 322)           | Core OOP distinction         |
+| 5  | ArrayList vs LinkedList (234, 324)             | Collection framework basics  |
+| 6  | JVM vs JRE vs JDK (281, 328)                   | Java ecosystem understanding |
+| 7  | Stack vs Heap (288, 329)                       | Memory management basics     |
+| 8  | Checked vs Unchecked exceptions (210-211, 327) | Error handling philosophy    |
+| 9  | Interface vs Abstract class (195, 326)         | Design decision knowledge    |
+| 10 | String Pool (100, 331)                         | JVM optimization insight     |
+| 11 | Pass-by-value (129)                            | Common misconception         |
+| 12 | Garbage Collection (290, 332)                  | Performance awareness        |
+| 13 | Collections Framework overview (218, 333)      | Breadth of knowledge         |
+| 14 | Multithreading basics (268, 334)               | Concurrency fundamentals     |
+| 15 | `equals()` vs `==` (104)                       | Critical for correctness     |
+| 16 | `final` keyword (24)                           | Immutability and design      |
+| 17 | Constructor chaining (153)                     | Object creation flow         |
+| 18 | Access modifiers (161)                         | Encapsulation enforcement    |
+| 19 | Dynamic method dispatch (181)                  | Runtime polymorphism core    |
+| 20 | Your Java project (335)                        | Personalizes the interview   |
