@@ -1,6 +1,5 @@
 # Java Interview Question Bank with Detailed Answers
-# BCA Fresher → 3–5 LPA Range
-# Comprehensive Answers for Self-Preparation
+### Comprehensive Answers for Self-Preparation
 
 ---
 
