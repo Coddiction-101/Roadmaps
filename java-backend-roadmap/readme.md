@@ -74,7 +74,7 @@ Think of Java mastery as **stacked layers**. Each layer is a prerequisite for th
 - Data types: `int`, `long`, `double`, `boolean`, `char`, `String` ☑️
 - Variables, constants (`final`), type casting ☑️
 - Operators: arithmetic, relational, logical, bitwise ☑️
-- Control flow: `if/else`, `switch`, ternary
+- Control flow: `if/else`, `switch`, ternary ☑️
 - Loops: `for`, `while`, `do-while`, enhanced `for`
 - Arrays: 1D, 2D, iteration
 - Methods: parameters, return types, method overloading
