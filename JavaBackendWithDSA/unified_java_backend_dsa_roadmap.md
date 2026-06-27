@@ -56,7 +56,7 @@ This roadmap uses **parallel tracks**: you learn Backend concepts AND solve DSA 
 ### 🟥 Week 1: Java Syntax + Arrays (DSA Track 1)
 
 #### 🟦 Java Backend Track
-| Day | Topic | What to Learn | Practice |
+| Day | Topic | What to Learn | Practice | Done
 |-----|-------|---------------|----------|
 | 1 | Setup | Install IntelliJ IDEA, JDK 21, Maven | Create first Maven project |
 | 2 | Variables & Types | Primitives, wrappers, `var`, literals | Build a calculator |
