@@ -1,6 +1,8 @@
-# ☕ Java Learning Roadmap
+# ☕ Java Backend Developer Roadmap
 
-A complete, structured roadmap to learn Java from scratch — focused on problem solving, OOP, real-world projects, and becoming capable of building applications independently. Concept-first, project-driven, no fluff.
+A complete, structured roadmap to learn Java from scratch — focused on problem solving, OOP, real-world projects, and becoming capable of building backend applications independently. Concept-first, project-driven, no fluff.
+
+> **Note:** DSA is intentionally left out of this roadmap — it's being learned separately as its own track. This roadmap is purely the backend-dev path: Java → OOP → Collections/Files → Advanced Java → Backend (Spring Boot).
 
 ---
 
@@ -8,29 +10,28 @@ A complete, structured roadmap to learn Java from scratch — focused on problem
 
 Master Java well enough to:
 
-* Build real-world applications independently
+* Build real-world backend applications independently
 * Understand OOP deeply
-* Solve DSA problems confidently
-* Learn backend development later with ease
-* Become internship and interview ready
+* Work confidently with Java's built-in tools (Collections, Streams, File I/O)
+* Build REST APIs with Spring Boot
+* Become internship and interview ready for backend roles
 
 ---
 
 # ❌ What to Skip (Don't Waste Time)
 
-| Topic                   | Reason                   |
-| ----------------------- | ------------------------ |
-| Applets                 | Dead technology          |
-| AWT GUI                 | Swing/JavaFX are better  |
-| Vector class            | Use ArrayList            |
-| Hashtable               | Use HashMap              |
-| Thread.stop()           | Deprecated               |
-| Excessive Theory First  | Learn by building        |
-| JSP & Servlets (early)  | Learn after Java basics  |
-| Reflection (early)      | Advanced                 |
-| Design Patterns (early) | Wait until OOP is solid  |
-| Spring Boot (too early) | Build fundamentals first |
-| JavaFX (early)          | Focus on logic first     |
+| Topic                    | Reason                    |
+| ------------------------- | -------------------------- |
+| Applets                   | Dead technology            |
+| AWT / Swing / JavaFX      | Not needed for backend dev |
+| Vector class               | Use ArrayList              |
+| Hashtable                  | Use HashMap                |
+| Thread.stop()               | Deprecated                 |
+| Excessive Theory First       | Learn by building           |
+| JSP & Servlets                | Spring Boot replaces this   |
+| Reflection (early)              | Advanced                     |
+| Design Patterns (early)           | Wait until OOP is solid       |
+| Frontend frameworks (React etc.)    | Out of scope for this roadmap  |
 
 ---
 
@@ -56,9 +57,9 @@ Master Java well enough to:
 
 ### Practice
 
-* Age Calculator - 1
-* Temperature Converter - 1
-* Simple Calculator - 1
+* Age Calculator
+* Temperature Converter
+* Simple Calculator
 
 ---
 
@@ -74,9 +75,9 @@ Master Java well enough to:
 
 ### Practice
 
-* Student Information Program - 1
-* Bill Generator - 1
-* Currency Converter - 1
+* Student Information Program
+* Bill Generator
+* Currency Converter
 
 ---
 
@@ -120,7 +121,7 @@ Master Java well enough to:
 
 ## Block 5: Methods
 
-* [X] Creating Methods
+* [x] Creating Methods
 * [x] Parameters
 * [x] Return Types
 * [x] Method Overloading
@@ -180,7 +181,7 @@ Features:
 
 # 📅 Phase 2 — Object-Oriented Programming
 
-> **Goal:** Think in objects instead of functions.
+> **Goal:** Think in objects instead of functions. This is the single most important phase for backend dev — Spring Boot is built entirely on these ideas.
 
 ---
 
@@ -282,7 +283,7 @@ Features:
 
 # 📅 Phase 3 — Collections & File Handling
 
-> **Goal:** Learn Java's most useful built-in tools.
+> **Goal:** Learn Java's most useful built-in tools — these show up constantly in backend code.
 
 ---
 
@@ -358,7 +359,7 @@ Features:
 
 # 📅 Phase 4 — Advanced Java
 
-> **Goal:** Understand how professional Java applications are built.
+> **Goal:** Understand how professional Java applications are built — this is where Java starts looking like real backend code.
 
 ---
 
@@ -418,137 +419,98 @@ Features:
 
 ---
 
-# 📅 Phase 5 — DSA in Java
+# 📅 Phase 5 — Backend Development (Spring Boot)
 
-> **Goal:** Become problem-solving and interview ready.
-
----
-
-## Block 23: Complexity Analysis
-
-* [ ] Big O
-* [ ] Space Complexity
-* [ ] Time Complexity
+> **Goal:** Become capable of building real, working APIs. This is the actual "backend developer" phase — everything before this was building toward it.
 
 ---
 
-## Block 24: Searching & Sorting
-
-* [ ] Linear Search
-* [ ] Binary Search
-* [ ] Bubble Sort
-* [ ] Selection Sort
-* [ ] Insertion Sort
-* [ ] Merge Sort
-* [ ] Quick Sort
-
----
-
-## Block 25: Recursion & Backtracking
-
-* [ ] Recursion
-* [ ] Backtracking
-* [ ] Subsets
-* [ ] Permutations
-
----
-
-## Block 26: Linked Lists
-
-* [ ] Singly Linked List
-* [ ] Doubly Linked List
-* [ ] Circular Linked List
-
----
-
-## Block 27: Stacks & Queues
-
-* [ ] Stack Problems
-* [ ] Queue Problems
-* [ ] Monotonic Stack
-
----
-
-## Block 28: Trees
-
-* [ ] Binary Trees
-* [ ] BST
-* [ ] Heap
-* [ ] Traversals
-
----
-
-## Block 29: Graphs
-
-* [ ] BFS
-* [ ] DFS
-* [ ] Dijkstra
-* [ ] Topological Sort
-
----
-
-## Block 30: Dynamic Programming
-
-* [ ] Memoization
-* [ ] Tabulation
-* [ ] Knapsack
-* [ ] LCS
-* [ ] LIS
-
----
-
-## ✅ Phase 5 Projects
-
-* Sorting Visualizer
-* Maze Solver
-* Route Finder
-
----
-
-# 📅 Phase 6 — Backend Development
-
-> **Goal:** Become capable of building APIs and real applications.
-
----
-
-## Block 31: SQL Basics
+## Block 23: SQL Basics
 
 * [ ] SELECT
 * [ ] INSERT
 * [ ] UPDATE
 * [ ] DELETE
 * [ ] JOINS
+* [ ] Indexes (concept level)
+* [ ] Normalization (concept level)
 
 ---
 
-## Block 32: Spring Boot
+## Block 24: Spring Boot Fundamentals
 
-* [ ] Spring Fundamentals
+* [ ] What Spring/Spring Boot Solves
+* [ ] Inversion of Control (IoC)
 * [ ] Dependency Injection
-* [ ] REST APIs
-* [ ] Controllers
-* [ ] Services
-* [ ] Repositories
+* [ ] Spring Boot Project Structure
+* [ ] `application.properties` / `application.yml`
+* [ ] Running & Debugging a Spring Boot App
 
 ---
 
-## Block 33: Spring Data JPA
+## Block 25: Building REST APIs
 
-* [ ] Entities
-* [ ] Relationships
-* [ ] CRUD Repositories
+* [ ] `@RestController`
+* [ ] `@RequestMapping` / `@GetMapping` / `@PostMapping` etc.
+* [ ] Request Params vs Path Variables
+* [ ] `@RequestBody` & DTOs
+* [ ] ResponseEntity & Status Codes
+* [ ] Exception Handling (`@ExceptionHandler`, `@ControllerAdvice`)
+* [ ] Validation (`@Valid`, Bean Validation)
+
+### Practice
+
+* Simple CRUD API (in-memory, no DB yet)
 
 ---
 
-## Block 34: Security Basics
+## Block 26: Spring Data JPA
 
-* [ ] Authentication
-* [ ] Authorization
+* [ ] Entities & `@Entity`
+* [ ] Repositories (`JpaRepository`)
+* [ ] Relationships (`@OneToMany`, `@ManyToOne`, etc.)
+* [ ] Query Methods
+* [ ] Custom Queries (`@Query`)
+* [ ] Pagination & Sorting
+
+### Practice
+
+* Connect the CRUD API to a real database
+
+---
+
+## Block 27: Layered Architecture
+
+* [ ] Controller Layer
+* [ ] Service Layer
+* [ ] Repository Layer
+* [ ] DTOs vs Entities
+* [ ] Mapping (manual or MapStruct)
+* [ ] Why Layering Matters (separation of concerns)
+
+---
+
+## Block 28: Security Basics
+
+* [ ] Authentication vs Authorization
+* [ ] Spring Security Basics
 * [ ] JWT Basics
+* [ ] Password Hashing (BCrypt)
+* [ ] Role-Based Access Control
 
 ---
 
-## ✅ Phase 6 Projects
+## Block 29: Testing & Tooling
+
+* [ ] Unit Testing with JUnit
+* [ ] Mockito Basics
+* [ ] Postman for API Testing
+* [ ] Maven/Gradle Basics
+* [ ] Logging (SLF4J)
+
+---
+
+## ✅ Phase 5 Projects
 
 * Expense Tracker API
 * Task Manager API
@@ -558,32 +520,31 @@ Features:
 
 ---
 
-# 📅 Phase 7 — Portfolio Projects
+# 📅 Phase 6 — Portfolio Projects
 
 > **Goal:** Build projects worthy of GitHub, resumes, and internships.
 
-* [ ] Password Manager
-* [ ] Expense Tracker Pro
+* [ ] Password Manager API
+* [ ] Expense Tracker Pro (full CRUD + Auth)
 * [ ] Inventory Management System
 * [ ] Hotel Reservation System
-* [ ] Chat Application
+* [ ] Chat Application (backend + WebSockets)
 * [ ] E-Commerce Backend
-* [ ] URL Shortener
-* [ ] Learning Management System
+* [ ] URL Shortener (with analytics)
+* [ ] Learning Management System (backend)
 
 ---
 
 # 📊 Overall Progress
 
-| Phase | Topic               | Status         |
-| ----- | ------------------- | -------------- |
-| 1     | Foundations         | 🔨 In Progress |
-| 2     | OOP                 | 📋 Planned     |
-| 3     | Collections & Files | 📋 Planned     |
-| 4     | Advanced Java       | 📋 Planned     |
-| 5     | DSA in Java         | 📋 Planned     |
-| 6     | Backend Development | 📋 Planned     |
-| 7     | Portfolio Projects  | 📋 Planned     |
+| Phase | Topic                          | Status         |
+| ----- | -------------------------------- | -------------- |
+| 1     | Foundations                        | 🔨 In Progress |
+| 2     | OOP                                  | 📋 Planned     |
+| 3     | Collections & Files                    | 📋 Planned     |
+| 4     | Advanced Java                            | 📋 Planned     |
+| 5     | Backend Development (Spring Boot)          | 📋 Planned     |
+| 6     | Portfolio Projects                           | 📋 Planned     |
 
 ---
 
@@ -598,9 +559,9 @@ Features:
 7. Password Vault
 8. Banking System
 9. Quiz Application
-10. Task Manager
-11. Inventory Manager
-12. Expense Tracker API
+10. Simple CRUD API (in-memory)
+11. Task Manager API
+12. Expense Tracker API (with DB + Auth)
 13. URL Shortener
 14. E-Commerce Backend
 
