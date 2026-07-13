@@ -16,7 +16,7 @@ Master Java well enough to:
 
 ---
 
-# ❌ What to Skip (Don't Waste Time)
+# ❌What to Skip (Don't Waste Time)
 
 | Topic                    | Reason                    |
 | ------------------------- | -------------------------- |
@@ -533,12 +533,12 @@ Features:
 
 ---
 
-# 📊 Overall Progress
+# Overall Progress
 
 | Phase | Topic                          | Status         |
 | ----- | -------------------------------- | -------------- |
-| 1     | Foundations                        | 🔨 In Progress |
-| 2     | OOP                                  | 📋 Planned     |
+| 1     | Foundations                        | In Progress |
+| 2     | OOP                                  | Planned     |
 | 3     | Collections & Files                    | 📋 Planned     |
 | 4     | Advanced Java                            | 📋 Planned     |
 | 5     | Backend Development (Spring Boot)          | 📋 Planned     |
@@ -546,7 +546,7 @@ Features:
 
 ---
 
-# 🔥 Recommended Project Order
+# Recommended Project Order
 
 1. Personal Profile Manager
 2. Grade Calculator
