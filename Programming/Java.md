@@ -539,10 +539,10 @@ Features:
 | ----- | -------------------------------- | -------------- |
 | 1     | Foundations                        | In Progress |
 | 2     | OOP                                  | Planned     |
-| 3     | Collections & Files                    | 📋 Planned     |
-| 4     | Advanced Java                            | 📋 Planned     |
-| 5     | Backend Development (Spring Boot)          | 📋 Planned     |
-| 6     | Portfolio Projects                           | 📋 Planned     |
+| 3     | Collections & Files                    | Planned     |
+| 4     | Advanced Java                            | Planned     |
+| 5     | Backend Development (Spring Boot)          | Planned     |
+| 6     | Portfolio Projects                           | Planned     |
 
 ---
 
