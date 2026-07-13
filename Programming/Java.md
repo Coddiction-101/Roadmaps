@@ -4,7 +4,7 @@ A complete, structured roadmap to learn Java from scratch — focused on problem
 
 ---
 
-# 🎯 Goal
+# Goal
 
 Master Java well enough to:
 
