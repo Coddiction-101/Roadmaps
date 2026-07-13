@@ -2,8 +2,6 @@
 
 A complete, structured roadmap to learn Java from scratch — focused on problem solving, OOP, real-world projects, and becoming capable of building backend applications independently. Concept-first, project-driven, no fluff.
 
-> **Note:** DSA is intentionally left out of this roadmap — it's being learned separately as its own track. This roadmap is purely the backend-dev path: Java → OOP → Collections/Files → Advanced Java → Backend (Spring Boot).
-
 ---
 
 # 🎯 Goal
