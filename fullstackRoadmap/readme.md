@@ -100,7 +100,7 @@
 - 🔁 **Backup:** [MDN: How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 **Move On When:**
-- [ ] You can explain what happens step-by-step when a browser loads `google.com`
+- [x] You can explain what happens step-by-step when a browser loads `google.com`
 - [ ] You understand what DNS does
 - [ ] You know the difference between HTTP and HTTPS
 
