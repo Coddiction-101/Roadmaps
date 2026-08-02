@@ -101,7 +101,7 @@
 
 **Move On When:**
 - [x] You can explain what happens step-by-step when a browser loads `google.com`
-- [ ] You understand what DNS does
+- [x] You understand what DNS does
 - [ ] You know the difference between HTTP and HTTPS
 
 ---
