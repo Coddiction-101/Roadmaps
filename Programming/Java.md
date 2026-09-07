@@ -123,8 +123,8 @@ Master Java well enough to:
 * [x] Parameters
 * [x] Return Types
 * [x] Method Overloading
-* [ ] Variable Scope
-* [ ] Recursion Basics
+* [x] Variable Scope
+* [x] Recursion Basics
 
 ### Practice
 
